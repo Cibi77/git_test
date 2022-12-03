@@ -1,1 +1,2 @@
 1. Zeile
+Neue Funktion ist nun hier hinzugefügt worden, welche zusammengeführt werden soll.
